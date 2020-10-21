@@ -22,6 +22,23 @@ namespace composition1_csharp
             Department dept = new Department(deptName);
             Worker worker = new Worker(name, level, baseSalary, dept);
 
-            
+            Console.Write("How many contracts to this worker? ");
+            int n = int.Parse(Console.ReadLine());
+
+            for (int i = 1; i <= n; i++)
+            {
+                Console.WriteLine($"Enter #{i} contract data: ");
+                Console.WriteLine("Date (DD/MM/YYYY): ");
+                DateTime date = DateTime.Parse(Console.ReadLine());
+                Console.Write("Value per hour: ");
+                double valueperhour = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                Console.Write("Duration (hours): ");
+                int hours = int.Parse(Console.ReadLine());
+
+                HourContract contract = new HourContract(date, valueperhour, hours);
+
+                worker.AddContract(contract);
+            }
+        }
     }
 }
