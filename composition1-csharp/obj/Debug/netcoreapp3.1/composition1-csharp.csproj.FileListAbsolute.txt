@@ -1,0 +1,13 @@
+C:\Users\mathh\OneDrive\Área de Trabalho\CursoC#\EnumProj2\composition1-csharp\composition1-csharp\bin\Debug\netcoreapp3.1\composition1-csharp.exe
+C:\Users\mathh\OneDrive\Área de Trabalho\CursoC#\EnumProj2\composition1-csharp\composition1-csharp\bin\Debug\netcoreapp3.1\composition1-csharp.deps.json
+C:\Users\mathh\OneDrive\Área de Trabalho\CursoC#\EnumProj2\composition1-csharp\composition1-csharp\bin\Debug\netcoreapp3.1\composition1-csharp.runtimeconfig.json
+C:\Users\mathh\OneDrive\Área de Trabalho\CursoC#\EnumProj2\composition1-csharp\composition1-csharp\bin\Debug\netcoreapp3.1\composition1-csharp.runtimeconfig.dev.json
+C:\Users\mathh\OneDrive\Área de Trabalho\CursoC#\EnumProj2\composition1-csharp\composition1-csharp\bin\Debug\netcoreapp3.1\composition1-csharp.dll
+C:\Users\mathh\OneDrive\Área de Trabalho\CursoC#\EnumProj2\composition1-csharp\composition1-csharp\bin\Debug\netcoreapp3.1\composition1-csharp.pdb
+C:\Users\mathh\OneDrive\Área de Trabalho\CursoC#\EnumProj2\composition1-csharp\composition1-csharp\obj\Debug\netcoreapp3.1\composition1-csharp.csprojAssemblyReference.cache
+C:\Users\mathh\OneDrive\Área de Trabalho\CursoC#\EnumProj2\composition1-csharp\composition1-csharp\obj\Debug\netcoreapp3.1\composition1-csharp.AssemblyInfoInputs.cache
+C:\Users\mathh\OneDrive\Área de Trabalho\CursoC#\EnumProj2\composition1-csharp\composition1-csharp\obj\Debug\netcoreapp3.1\composition1-csharp.AssemblyInfo.cs
+C:\Users\mathh\OneDrive\Área de Trabalho\CursoC#\EnumProj2\composition1-csharp\composition1-csharp\obj\Debug\netcoreapp3.1\composition1-csharp.csproj.CoreCompileInputs.cache
+C:\Users\mathh\OneDrive\Área de Trabalho\CursoC#\EnumProj2\composition1-csharp\composition1-csharp\obj\Debug\netcoreapp3.1\composition1-csharp.dll
+C:\Users\mathh\OneDrive\Área de Trabalho\CursoC#\EnumProj2\composition1-csharp\composition1-csharp\obj\Debug\netcoreapp3.1\composition1-csharp.pdb
+C:\Users\mathh\OneDrive\Área de Trabalho\CursoC#\EnumProj2\composition1-csharp\composition1-csharp\obj\Debug\netcoreapp3.1\composition1-csharp.genruntimeconfig.cache
